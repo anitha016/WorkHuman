@@ -22,7 +22,7 @@ The default .js file will run.
 - Create a new project in Visual Studio Code.
 - Download the ZIP folder into your local or clone the repository into your local.
 - Navigate to `conf` folder and run 
-- `Protractor conf.js`
+  - `Protractor conf.js`
 - The scripts will run in a browser.
 
 ## Errors
