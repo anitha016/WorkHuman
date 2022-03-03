@@ -19,13 +19,9 @@ WorkHuman Automation - Kayak
 The default .js file will run.
  
 ## To run my test case:
-- Create a new project in Visual Studio and create a new folder called conf.
-- Copy conf.js file from the below location and paste it in your conf folder.
-  - `\node_modules\protractor\example`
-- Create another folder in Visual Studio for test cases and create two .js files for the two given scenarios.
-- Copy and paste the code. And specify the file you want to run in specs[] in conf.js file under conf folder
-- Or, Alternatively download the ZIP folder into your local or clone the repository into your local and run the scripts 
-- Navigate to conf folder and run “Protractor conf.js”
+- Create a new project in Visual Studio Code.
+- Download the ZIP folder into your local or clone the repository into your local.
+- Navigate to `conf` folder and run “Protractor conf.js”
 - The scripts will run in a browser.
 
 ## Errors
