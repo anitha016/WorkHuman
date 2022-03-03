@@ -139,7 +139,6 @@ describe('Kayak Airlines', () => {
         //   });
         
         //Q.No=11 //Gathering first 3 rows into a data object
-      //  var e8 = element(by.id('KkFiVqgawg-1'))
         // var price1 = element.all(by.className('price-text')).first().getText();
         // var price2 = element.all(by.className('price-text')).get(1).getText();
         // var price3 = element.all(by.className('price-text')).get(2).getText();
