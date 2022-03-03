@@ -23,7 +23,7 @@ The default .js file will run.
 - Download the ZIP folder into your local or clone the repository into your local.
 - Navigate to `conf` folder and run 
   - `Protractor conf.js`
-- The scripts will run in a browser.
+- The scripts will run in a default browser. Browser can be changed in `conf.js`
 
 ## Errors
 - If you get an error `Failed: EACCES connect EACCES 127.0.0.1:56068` Please re-run the test cases using `Protractor conf.js`.
