@@ -15,7 +15,7 @@ exports.config = {
     specs: ['..//testcases/kayak_airline.js'],
             
     // Options to be passed to Jasmine.
-    // jasmineNodeOpts: {
-    //   defaultTimeoutInterval: 30000
-    // }
+    jasmineNodeOpts: {
+      defaultTimeoutInterval: 30000
+    }
   };
